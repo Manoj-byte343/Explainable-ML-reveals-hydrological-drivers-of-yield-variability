@@ -1,0 +1,23 @@
+# Data (raw rasters/vectors are large & often not shareable — keep out of git)
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Results (regenerate from notebooks rather than tracking large outputs)
+results/*
+!results/.gitkeep
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Jupyter
+*-checkpoint.ipynb
