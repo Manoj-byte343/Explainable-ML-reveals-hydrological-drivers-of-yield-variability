@@ -71,6 +71,3 @@ If you use this code, please cite the associated manuscript (citation to be fina
 - Manoj Lamichhane — Department of Agricultural and Biosystems Engineering, South Dakota State University
 - Sushant Mehan — Department of Agricultural and Biosystems Engineering, South Dakota State University
 
-## License
-
-Add a license (e.g., MIT) here if you intend the code to be reused by others. Until then, this repository is shared for review purposes and all rights are reserved by the authors.
